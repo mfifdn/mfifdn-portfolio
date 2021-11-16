@@ -7,9 +7,9 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Miftaul Mannan",
-  logo_name: "Miftaul Mannan",
-  nickname: "Tasin",
+  title: "Muhammad Afifuddin",
+  logo_name: "Muhammad Afifuddin",
+  nickname: "Afif",
   subTitle:
     "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
   resumeLink:
